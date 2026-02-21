@@ -8,12 +8,12 @@ MaraMinds empowers Kenyan SMEs with AI-driven solutions, operational excellence,
 
 ## Services
 
-- 🤖 Swahili AI Chatbots
-- 📊 Financial Forecasting & Inventory Management
-- 🔄 Operational Excellence (Kaizen, Lean, Sigma)
-- 🌐 Website Creation & Digital Marketing
-- 🔌 Hardware & Networking
-- 📈 CRM & Lead Engineering
+-  Swahili AI Chatbots
+-  Financial Forecasting & Inventory Management
+-  Operational Excellence (Kaizen, Lean, Sigma)
+-  Website Creation & Digital Marketing
+-  Hardware & Networking
+-  CRM & Lead Engineering
 
 ## Technologies
 
@@ -24,9 +24,9 @@ MaraMinds empowers Kenyan SMEs with AI-driven solutions, operational excellence,
 
 ## Contact
 
-📧 info@maraminds.co.ke  
-📱 +254 700 000 000  
-📍 Nairobi, Kenya
+ info@maraminds.co.ke  
+ +254 700 000 000  
+ Nairobi, Kenya
 
 ---
 
